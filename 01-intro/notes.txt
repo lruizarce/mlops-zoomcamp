@@ -1,0 +1,28 @@
+MLOPs Maturity Model
+
+Level 0: No automation
+    - Using a jupyter notebook, all code in jupyter notebook
+    - Good for Proof of Concept: Start creating a model and now you need to further develop it
+Level 1: DevOps, No MLOPs
+    - Experience developers, use best engineering processes
+    - Possible to deploy a model
+    - Releases are automated
+    - They are not ML-aware
+    - CI/code
+    - OPS Metrics
+    - No experiment tracking
+    - No reproducibility
+    - DS separated from engineers
+    - POC -> Production
+Level 2: Automated Training
+    - Training Pipeline
+    - Experiment tracking
+    - Model Registry
+    - Low friction development
+    - DS work with engineers
+Level 3: Automated Deployment
+    - Easy to deploy model
+    - A/B Test
+    - Model Monitoring
+Level 4: Full MLOPs Automated 
+    - 
