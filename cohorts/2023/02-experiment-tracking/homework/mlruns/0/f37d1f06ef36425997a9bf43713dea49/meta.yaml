@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/luisr/Desktop/Projects/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/0/f37d1f06ef36425997a9bf43713dea49/artifacts
+end_time: 1715613363758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f37d1f06ef36425997a9bf43713dea49
+run_name: salty-shrimp-622
+run_uuid: f37d1f06ef36425997a9bf43713dea49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715613356505
+status: 3
+tags: []
+user_id: luisr

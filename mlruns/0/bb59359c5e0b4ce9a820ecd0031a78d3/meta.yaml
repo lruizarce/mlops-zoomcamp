@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bb59359c5e0b4ce9a820ecd0031a78d3/artifacts
+end_time: 1715298490371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb59359c5e0b4ce9a820ecd0031a78d3
+run_name: merciful-auk-94
+run_uuid: bb59359c5e0b4ce9a820ecd0031a78d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715298490165
+status: 4
+tags: []
+user_id: luisr
