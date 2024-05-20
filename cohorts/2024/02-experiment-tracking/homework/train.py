@@ -32,7 +32,8 @@ def run_train(data_path: str):
 
         rmse = mean_squared_error(y_val, y_pred, squared=False)
         mlflow.log_metric("rmse", rmse)
-        mlflow.sklearn.log_model()
+        mlflow.sklearn.log_model(rf, artifact_path='mlruns')
+        
 
 if __name__ == '__main__':
     run_train()

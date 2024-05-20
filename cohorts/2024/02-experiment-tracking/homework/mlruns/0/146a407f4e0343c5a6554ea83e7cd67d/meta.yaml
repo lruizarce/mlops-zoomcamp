@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/luisr/Desktop/Projects/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/146a407f4e0343c5a6554ea83e7cd67d/artifacts
+end_time: 1716245891216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 146a407f4e0343c5a6554ea83e7cd67d
+run_name: worried-dolphin-389
+run_uuid: 146a407f4e0343c5a6554ea83e7cd67d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716245861786
+status: 3
+tags: []
+user_id: luisr

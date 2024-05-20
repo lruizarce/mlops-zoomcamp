@@ -36,7 +36,7 @@ def run_optimization(data_path: str, num_trials: int):
     def objective(search_space):
 
         with mlflow.start_run():
-            mlflow.set_tag('random forest')
+            mlflow.set_tag('random forest', 'v1')
             mlflow.log_params(search_space)
             rf = RandomForestRegressor(**search_space)
             rf.fit(X_train, y_train)
