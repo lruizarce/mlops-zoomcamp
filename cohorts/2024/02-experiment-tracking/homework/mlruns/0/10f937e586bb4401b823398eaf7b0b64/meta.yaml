@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/luisr/Desktop/Projects/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/10f937e586bb4401b823398eaf7b0b64/artifacts
+end_time: 1716226425706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10f937e586bb4401b823398eaf7b0b64
+run_name: amusing-lark-364
+run_uuid: 10f937e586bb4401b823398eaf7b0b64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716226401972
+status: 3
+tags: []
+user_id: luisr

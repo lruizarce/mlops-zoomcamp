@@ -1,0 +1,7 @@
+digest: 7f01fa9f
+name: dataset
+profile: '{"num_rows": 65946, "num_elements": 65946}'
+schema: null
+source: '{"tags": {"mlflow.user": "luisr", "mlflow.source.name": "train.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "61a8d2b57ccf5852032b7d81c6bf86bac0eedd3c"}}'
+source_type: code
